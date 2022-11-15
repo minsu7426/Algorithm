@@ -1,4 +1,4 @@
-[문제 링크](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=acceptance_desc&page=1&languages=mysql&levels=1)
+[문제 링크](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=acceptance_desc&page=1&languages=mysql%2Coracle&levels=1&statuses=unsolved)
 
 
 ## 1. 아픈 동물 찾기
