@@ -1,4 +1,4 @@
-[문제 링크](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=acceptance_desc&page=1&languages=mysql%2Coracle&levels=1&statuses=unsolved)
+[문제 링크](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=mysql%2Coracle&page=1&levels=3)
 
 
 ## 1. 오랜 기간 보호한 동물(1)

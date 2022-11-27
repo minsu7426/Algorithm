@@ -1,4 +1,4 @@
-[문제 링크](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&order=acceptance_desc&page=1&languages=mysql%2Coracle&levels=1&statuses=unsolved)
+[문제 링크](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=mysql%2Coracle&page=1&levels=1)
 
 
 ## 1. 아픈 동물 찾기
@@ -59,7 +59,7 @@ WHERE ROWNUM <= 1
 - FROM => WHERE => GROUP BY => SELECT => ORDER BY
 
 ## 6. 이름이 있는 동물의 아이디
-- IS NULL
+- IS NOT NULL
 ```sql
 SELECT ANIMAL_ID
 FROM ANIMAL_INS
@@ -68,7 +68,7 @@ ORDER BY ANIMAL_ID ASC
 ```
 
 ## 7. 역순 정렬하기
-- SELECT
+- ORDER BY
 ```sql
 SELECT NAME, DATETIME
 FROM ANIMAL_INS
